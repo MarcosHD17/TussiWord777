@@ -905,9 +905,5 @@ file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
 
 [[files]]
-file = "options.txt"
-hash = "31832b9bb4e1806789c6efff68cfaf07aab459b74d9846227d87c4b73b5402cc"
-
-[[files]]
 file = "servers.dat"
 hash = "749114db43b8e58a3876c14dc89919bb13a1dfb3b7a5bbbf548dd4b1f6071819"
