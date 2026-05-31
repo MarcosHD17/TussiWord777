@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/darkness2.properties"
-hash = "b40d709e65f44a76db4e758563cc0b25da16f025e5c496338c3d79a559610058"
-
-[[files]]
 file = "emotes/ADS pose.emotecraft"
 hash = "e3e9addc4e3d8fdc89189043b41935b7aff38aa98cbefae232834d5cbfb46e84"
 
@@ -207,6 +203,10 @@ hash = "997f034210e0fca20fa5a0e6ddd370c5444854fc97e69910161104160cea41ce"
 [[files]]
 file = "mods/Gaggle of Golems-1.4.0 (Forge 1.20.1).jar"
 hash = "5f32017ef061489702296127323de41ea6faeae133f5850d9eb88ed35dffac7b"
+
+[[files]]
+file = "mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
+hash = "061dd0e8e066dc39277736d5607a47a18fee4aff428de3363882f96e5c405aaa"
 
 [[files]]
 file = "mods/InventoryProfilesNext-forge-1.20-1.10.20.jar"
