@@ -529,10 +529,6 @@ file = "mods/travelersbackpack-forge-1.20.1-9.1.54.jar"
 hash = "ad6f98357f073917037908b51edbe8c775730f71f241fd955a976b979464143b"
 
 [[files]]
-file = "mods/vanillaplustools-1.20-1.0.4.jar"
-hash = "190164a2bdb7ff2ea68f57133ff0a95f9afd3c85b5f7749c8da5a3382271a457"
-
-[[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
 
