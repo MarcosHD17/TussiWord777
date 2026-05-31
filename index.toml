@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/darkness.properties"
+hash = "b40d709e65f44a76db4e758563cc0b25da16f025e5c496338c3d79a559610058"
+
+[[files]]
 file = "emotes/ADS pose.emotecraft"
 hash = "e3e9addc4e3d8fdc89189043b41935b7aff38aa98cbefae232834d5cbfb46e84"
 
@@ -221,6 +225,10 @@ file = "mods/Kambrik-6.1.1+1.20.1-forge.jar"
 hash = "37d0c2b03a1f3aacb30498d67c35adaca99dc9ecd30f66f383016f4cbc85be8e"
 
 [[files]]
+file = "mods/LibX-1.20.1-5.0.12.jar"
+hash = "2de52bac5d699e6a2cbf74e94b0b3e6afdcb2e3b939dc2449fc1c6dfb8c9a96c"
+
+[[files]]
 file = "mods/M'TEG-1.1.2-1.20.1.jar"
 hash = "b3af157b829fb79fd33f4228f7eb063ca78c2f6a0c269e98bb581bb42a975a67"
 
@@ -235,6 +243,10 @@ hash = "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
 [[files]]
 file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
 hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
+
+[[files]]
+file = "mods/SimplyTools-1.20.1-2.0.8.jar"
+hash = "8dc41fd86cf2335fccd3d75d9932f7b2499fbf11ca8f5c09bdd5e20cce57da7b"
 
 [[files]]
 file = "mods/ToolBelt-1.20.1-1.20.03.jar"
@@ -421,6 +433,10 @@ file = "mods/incontrol-1.20-9.4.6.jar"
 hash = "85d64d0f81f6eb6e1e2fa2a97a0aeabcea9e371498c3853b12c3697891e57f2c"
 
 [[files]]
+file = "mods/insanelib-1.23.4.4.jar"
+hash = "863f69780ca1c2d73a95bda11ef660c7ce6dd32aa2e3d6ca53bfea26293f2cb0"
+
+[[files]]
 file = "mods/jei-1.20.1-forge-15.20.0.130.jar"
 hash = "36d3dfb2214b9dca38c447fd971dd2dedc5f69719a5aca6ffcef69b2840ece0a"
 
@@ -485,6 +501,10 @@ file = "mods/ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar"
 hash = "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
 
 [[files]]
+file = "mods/shieldsplus-1.12.0.jar"
+hash = "956c3aa7ff9817af61e67e887e8256cc7008ba45841645df4d06403e7fe10949"
+
+[[files]]
 file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
 hash = "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
 
@@ -519,6 +539,10 @@ hash = "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "servers.dat"
