@@ -253,6 +253,10 @@ file = "mods/ToolBelt-1.20.1-1.20.03.jar"
 hash = "9c1b8c52d848055d7a4c60989f5b36247431c11d84a2e2975bb1ccfca2663030"
 
 [[files]]
+file = "mods/Zombie Extreme 1.20.1 0.2.6.5.jar"
+hash = "61c44f957cf95af7f61c68414d7238fab359456b0fe7684c2d4f7a55356b4e20"
+
+[[files]]
 file = "mods/[1.20.1] SecurityCraft v1.10.0.1.jar"
 hash = "db2f56d0b37006e0de24d53fe94a38d9fd1d10eadf384a719a37c8d15bbb88dc"
 
