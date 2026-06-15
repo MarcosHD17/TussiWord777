@@ -273,10 +273,6 @@ file = "mods/ToolBelt-1.20.1-1.20.03.jar"
 hash = "9c1b8c52d848055d7a4c60989f5b36247431c11d84a2e2975bb1ccfca2663030"
 
 [[files]]
-file = "mods/Zombie Extreme 1.20.1 0.2.6.5.jar"
-hash = "61c44f957cf95af7f61c68414d7238fab359456b0fe7684c2d4f7a55356b4e20"
-
-[[files]]
 file = "mods/[1.20.1] SecurityCraft v1.10.0.1.jar"
 hash = "db2f56d0b37006e0de24d53fe94a38d9fd1d10eadf384a719a37c8d15bbb88dc"
 
@@ -535,10 +531,6 @@ hash = "5cb039922e08ae6b8705d50e484a8759579025fb4f48413fa62d2056505fb45e"
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
 hash = "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250"
-
-[[files]]
-file = "mods/happy_ghast-3.0.0-forge-1.20.1.jar"
-hash = "e7c15f9874b5e36448c0c9c1b811908da13c5efd923ed4fd79b3bd35aea51095"
 
 [[files]]
 file = "mods/incontrol-1.20-9.4.6.jar"
