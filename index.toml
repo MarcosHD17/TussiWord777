@@ -273,10 +273,6 @@ file = "mods/acceleratedrendering-1.0.8-1.20.1-alpha.jar"
 hash = "08c94eef7116790e09926074a09807f42ad3ddc685e400d5a27c457f5fb92f46"
 
 [[files]]
-file = "mods/amendments-1.20-2.2.5.jar"
-hash = "2ecb189991320d789cd2c539d770b5b52ad71eff93d186297d10853bcb6ee00a"
-
-[[files]]
 file = "mods/anvianslib-forge-1.20-1.4.2.jar"
 hash = "db27d65d7dc77530d4e1e796603155126f8bb5e49ac12abd7cd372206081a813"
 
@@ -453,10 +449,6 @@ file = "mods/drill_drain-1.0.12 (1).jar"
 hash = "c2d2e8d35d41baa90665aefa48af2a3202b51cac9288b19bb3c547c28dc5c001"
 
 [[files]]
-file = "mods/drivebywire-1.20.1-0.1.1.jar"
-hash = "5f5dbb95ce8340f046ed5a90530eb6f47fea6f5571c886c55b5b091640e5b44a"
-
-[[files]]
 file = "mods/dynamiclights-1.20.1.2.jar"
 hash = "ccde9eb51e4a56016b8e0d817d4a8afdc7779f25749cc4bdb07166e296853fd7"
 
@@ -531,10 +523,6 @@ hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
 [[files]]
 file = "mods/modernfix-forge-5.27.24+mc1.20.1 (1).jar"
 hash = "bed5ef4c97f7e1d3c2fab9d52b48894667bb095f5405b9250b59d8c7cfc0e80b"
-
-[[files]]
-file = "mods/moonlight-1.20-2.16.28-forge.jar"
-hash = "46ee59799b38da7b87b734e4f6f11be886a15cab51cbf78614bb50f9e43b3278"
 
 [[files]]
 file = "mods/moonlight-1.20-2.16.32-forge.jar"
@@ -619,10 +607,6 @@ hash = "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
-
-[[files]]
-file = "mods/zombieawareness-1.20.1-1.13.1.jar"
-hash = "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
