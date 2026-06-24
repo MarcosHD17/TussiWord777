@@ -273,10 +273,6 @@ file = "mods/acceleratedrendering-1.0.8-1.20.1-alpha.jar"
 hash = "08c94eef7116790e09926074a09807f42ad3ddc685e400d5a27c457f5fb92f46"
 
 [[files]]
-file = "mods/anvianslib-forge-1.20-1.4.2.jar"
-hash = "db27d65d7dc77530d4e1e796603155126f8bb5e49ac12abd7cd372206081a813"
-
-[[files]]
 file = "mods/architectury-9.2.14-forge.jar"
 hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
 
@@ -301,10 +297,6 @@ file = "mods/cbc_at_Forge_1.20.1_0.1.4b.jar"
 hash = "58f5afb6125f606727f960fc36dc6e921fdb7803af1c351b4dc1712a15d61d3d"
 
 [[files]]
-file = "mods/cfwinfo-1.9.0+mc1.20.1.jar"
-hash = "4aeb098728e0b159ed1902f5ea676a5f116037325dd8da7d77c608528c54a534"
-
-[[files]]
 file = "mods/chisel-1.20.1-Forge-1.3.2.jar"
 hash = "3917f99f308664432cd8fc278a1eecf28bb5550efa18ce38de3903723f988142"
 
@@ -323,10 +315,6 @@ hash = "a00e37b978c6d73110157879373fe3e97784bbf0c8d4e5fc8dbd9f00e1113fc0"
 [[files]]
 file = "mods/copycats-3.0.7+mc.1.20.1-forge.jar"
 hash = "bc59446d8aff50924f805286927a1bda3df16c6f4e6f893865f410e581b62f1a"
-
-[[files]]
-file = "mods/coroutil-forge-1.20.1-1.3.7.jar"
-hash = "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
 
 [[files]]
 file = "mods/create-1.20.1-6.0.8.jar"
@@ -591,10 +579,6 @@ hash = "f99f24de62015451a047f90484cf9d25970cac350105b581c22b2d5247ebfd53"
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
-
-[[files]]
-file = "mods/vs_speed_limiter-0.1.0-beta.jar"
-hash = "93383165e051d412cdd872f087782aa5c1ae7e3ac8b70fff7f7dd2a46a1cb8d9"
 
 [[files]]
 file = "mods/vscarmor-1-20.1-1.1.1.jar"
