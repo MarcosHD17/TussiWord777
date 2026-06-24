@@ -217,6 +217,10 @@ file = "mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
 hash = "061dd0e8e066dc39277736d5607a47a18fee4aff428de3363882f96e5c405aaa"
 
 [[files]]
+file = "mods/InventoryProfilesNext-forge-1.20-1.10.20.jar"
+hash = "2f664f23ed031f6cfacce01b0461c450e2248435936cb6b7e2e0463c6ec56343"
+
+[[files]]
 file = "mods/Jade-1.20.1-Forge-11.13.2.jar"
 hash = "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5"
 
@@ -271,6 +275,10 @@ hash = "db2f56d0b37006e0de24d53fe94a38d9fd1d10eadf384a719a37c8d15bbb88dc"
 [[files]]
 file = "mods/acceleratedrendering-1.0.8-1.20.1-alpha.jar"
 hash = "08c94eef7116790e09926074a09807f42ad3ddc685e400d5a27c457f5fb92f46"
+
+[[files]]
+file = "mods/amendments-1.20-2.2.5.jar"
+hash = "2ecb189991320d789cd2c539d770b5b52ad71eff93d186297d10853bcb6ee00a"
 
 [[files]]
 file = "mods/architectury-9.2.14-forge.jar"
@@ -397,6 +405,10 @@ file = "mods/createaddition-1.20.1-1.3.3.jar"
 hash = "9bf3ae15d86ec95d128542caf10e4b5498e49ca02f725b9302d6daecd5eae1db"
 
 [[files]]
+file = "mods/createbigcannons-5.11.2-mc.1.20.1-forge.jar"
+hash = "f94c0a70ab5f9c1bff4e2757a06484ae5fa21462cf3a46b906bc903e7f7fa3b9"
+
+[[files]]
 file = "mods/createbigcannons-5.11.4-mc.1.20.1-forge.jar"
 hash = "11845f0d79a9014977f667a57b14d0527928bee8b66bc6b50bedcc29ee81878a"
 
@@ -517,6 +529,10 @@ file = "mods/moonlight-1.20-2.16.32-forge.jar"
 hash = "abe6ef01c6d950789f55ee06b3767aa636655d41cd55f7ca2af3a34e8752d155"
 
 [[files]]
+file = "mods/movingelevators-1.4.12-forge-mc1.20.1.jar"
+hash = "ce330a64250af28872d7561783c32a22dce05e8e41682c35499fdc597e20df95"
+
+[[files]]
 file = "mods/ntgl-1.20.1-3.1.1.jar"
 hash = "5e1983a6c51d2daaf554ff2aa1a257747353ae77cf8dea0a8fb71935408bdf89"
 
@@ -587,6 +603,10 @@ hash = "77e10ce7522adda2ec5065f6fccf035786968fa9c4333a30e7786378fc8088fc"
 [[files]]
 file = "mods/waystones-forge-1.20.1-14.1.20.jar"
 hash = "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
