@@ -581,10 +581,6 @@ file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
 
 [[files]]
-file = "mods/vscarmor-1-20.1-1.1.1.jar"
-hash = "77e10ce7522adda2ec5065f6fccf035786968fa9c4333a30e7786378fc8088fc"
-
-[[files]]
 file = "mods/waystones-forge-1.20.1-14.1.20.jar"
 hash = "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
 
