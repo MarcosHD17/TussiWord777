@@ -201,10 +201,6 @@ file = "mods/CustomSkinLoader_ForgeV2-14.28.jar"
 hash = "2edbc47d4cb378d4cab9a7968b578e9f9dd4aad1dcb7400a9b7af29eda89bd3f"
 
 [[files]]
-file = "mods/DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar"
-hash = "b38cd5118887acc351b4944b6ea6affeaab91ab93c44ec2df537d91d902c5e78"
-
-[[files]]
 file = "mods/FramedBlocks-9.4.3.jar"
 hash = "58f4a8d8fb759a9db8754d83461df1b7b2e94426888259286d3acc316e6c6589"
 
@@ -461,10 +457,6 @@ file = "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
 hash = "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
 
 [[files]]
-file = "mods/enhancedai-3.3.7.1.jar"
-hash = "0fa1a50c663659b11ddbb263eebf4b57be3ee5faf711945303d838372ac0df2f"
-
-[[files]]
 file = "mods/eureka-1201-1.6.1.jar"
 hash = "958106e0b5b5b6838484caa22fb2462f30492e8fd8205a863502aa29a7ded00d"
 
@@ -595,10 +587,6 @@ hash = "f99f24de62015451a047f90484cf9d25970cac350105b581c22b2d5247ebfd53"
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
-
-[[files]]
-file = "mods/vscarmor-1-20.1-1.1.1.jar"
-hash = "77e10ce7522adda2ec5065f6fccf035786968fa9c4333a30e7786378fc8088fc"
 
 [[files]]
 file = "mods/waystones-forge-1.20.1-14.1.20.jar"
