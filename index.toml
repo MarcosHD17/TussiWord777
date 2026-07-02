@@ -309,10 +309,6 @@ file = "mods/chisels-and-bits-forge-20.1.20.jar"
 hash = "682dab9c016b12b3da49ed4df037cc9483917cd50ec76b2bd6da4bfbf1237a2b"
 
 [[files]]
-file = "mods/clockwork-0.5.5.2.jar"
-hash = "092179d62ae0ac34e5ad45465ea7bd74b3292b3b21a9fe0d0ffdfa61c2b1d276"
-
-[[files]]
 file = "mods/connectedglass-1.1.14-forge-mc1.20.1.jar"
 hash = "a00e37b978c6d73110157879373fe3e97784bbf0c8d4e5fc8dbd9f00e1113fc0"
 
@@ -567,10 +563,6 @@ hash = "14b4be93c4be496c21819e59be8ecc197fa72408e09485b4d718cfc1681a8a84"
 [[files]]
 file = "mods/travelersbackpack-forge-1.20.1-9.1.54.jar"
 hash = "ad6f98357f073917037908b51edbe8c775730f71f241fd955a976b979464143b"
-
-[[files]]
-file = "mods/valkyrienskies-120-2.4.11.jar"
-hash = "f99f24de62015451a047f90484cf9d25970cac350105b581c22b2d5247ebfd53"
 
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
