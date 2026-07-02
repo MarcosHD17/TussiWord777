@@ -421,10 +421,6 @@ file = "mods/createendertransmission-2.1.1-1.20.1.jar"
 hash = "f70e2a8f1170fe87d212588ccf5a96d2a2aa21d6c01f5d584c53b226203bc57e"
 
 [[files]]
-file = "mods/createpropulsion-0.3.3.jar"
-hash = "22aa961d976e81e566199ae993ffcf8035b421128abbd1639877a181824def24"
-
-[[files]]
 file = "mods/createteleporters2.3-1.20.1.jar"
 hash = "cf65bffb0fb0e30aacf525425f3c4061cd77889f6c0fee3da226d191845bfedb"
 
@@ -455,10 +451,6 @@ hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 [[files]]
 file = "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
 hash = "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
-
-[[files]]
-file = "mods/eureka-1201-1.6.1.jar"
-hash = "958106e0b5b5b6838484caa22fb2462f30492e8fd8205a863502aa29a7ded00d"
 
 [[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
@@ -571,10 +563,6 @@ hash = "f58c2a725336f263e94870347df116e0198d7a8c36a6f7bdf065c566b0248811"
 [[files]]
 file = "mods/tombstone-1.20.1-9.0.10.jar"
 hash = "14b4be93c4be496c21819e59be8ecc197fa72408e09485b4d718cfc1681a8a84"
-
-[[files]]
-file = "mods/trackwork-1.20.1-1.2.4.jar"
-hash = "7f6f50a54391af43e9e4590e20ddab9af9fa3388c1b97399be6fbda5b57efca5"
 
 [[files]]
 file = "mods/travelersbackpack-forge-1.20.1-9.1.54.jar"
